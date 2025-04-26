@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=27_SW2 Pin=Joystick2-1
+Removed Pin From Net: NetName=25_VRX2 Pin=Joystick2-3
+Added Pin To Net: NetName=25_VRX2 Pin=Joystick2-1
+Added Pin To Net: NetName=27_SW2 Pin=Joystick2-3

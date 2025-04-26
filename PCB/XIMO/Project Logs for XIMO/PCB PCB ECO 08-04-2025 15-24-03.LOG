@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Servo3_14 Pin=SERVO_1-1
+Removed Pin From Net: NetName=servo1_12 Pin=SERVO_2-1
+Removed Pin From Net: NetName=Servo2_13 Pin=SERVO_3-1
+Added Pin To Net: NetName=Servo3_14 Pin=SERVO_2-1
+Added Pin To Net: NetName=servo1_12 Pin=SERVO_3-1
+Added Pin To Net: NetName=Servo2_13 Pin=SERVO_4-1
+Added Pin To Net: NetName=Servo4_27 Pin=SERVO_1-1
+Added Pin To Net: NetName=Servo4_27 Pin=U?-J5_9
+Added Net: Name=Servo4_27
+Added Member To Class: ClassName=Schematic Member=Component U? ESP32_NODEMCU

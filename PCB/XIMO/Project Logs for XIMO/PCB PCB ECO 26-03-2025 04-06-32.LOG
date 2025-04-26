@@ -1,0 +1,25 @@
+Added Component: Designator=s1(SW_1101M2S3CQE2)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1101M2S3CQE2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.65 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/symbols-footprints/1101M2S3CQE2/C%26K%20Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=s2(SW_1101M2S3CQE2)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1101M2S3CQE2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.65 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/symbols-footprints/1101M2S3CQE2/C%26K%20Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_ARM Pin=s1-1
+Added Pin To Net: NetName=3V3 Pin=s2-1
+Added Pin To Net: NetName=Net3v3_2 Pin=s2-2
+Added Pin To Net: NetName=NetC_1 Pin=C-1
+Added Pin To Net: NetName=NetC_1 Pin=Power-1
+Added Pin To Net: NetName=NetC_1 Pin=s1-2
+Added Net: Name=NetC_1
+Added Member To Class: ClassName=Schematic Member=Component s1 1101M2S3CQE2
+Added Member To Class: ClassName=Schematic Member=Component s2 1101M2S3CQE2

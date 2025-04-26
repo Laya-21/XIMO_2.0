@@ -1,0 +1,304 @@
+Added Component: Designator=3v3(61900211121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=C2(WCAP-AT1H 5x11x2x0.5)
+Add component (AddParameter): Name = "Application"; Value = "Medium and high voltage type range from 160V-450V used as primary side input filter in power supply; Low voltage type used as energy storage or low frequency filtering in circuit, applied to general switching power supply, AC-DC converter, adapter, charger, TV, VCR, DC motor circuit filter, digital audio, digital cameras, digital video cameras, satellite receiver etc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "33 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Characteristics"; Value = "Aluminum Electrolytic Capacitor; Recommended soldering: Wave; Operating temperature:–40 °C to +105 °C for UR < 400 V; –25 °C to +105 °C for UR = 400 V; Long life product series; Higher permissible ripple current; Load life: 5000–10000 h @ +105 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/860240372001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "6/8/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "libraries@we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "860240372001"; VariantName = "[No Variations]"
+Added Component: Designator=C(WCAP-AT1H 5x11x2x0.5)
+Add component (AddParameter): Name = "Application"; Value = "Medium and high voltage type range from 160V-450V used as primary side input filter in power supply; Low voltage type used as energy storage or low frequency filtering in circuit, applied to general switching power supply, AC-DC converter, adapter, charger, TV, VCR, DC motor circuit filter, digital audio, digital cameras, digital video cameras, satellite receiver etc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "33 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Characteristics"; Value = "Aluminum Electrolytic Capacitor; Recommended soldering: Wave; Operating temperature:–40 °C to +105 °C for UR < 400 V; –25 °C to +105 °C for UR = 400 V; Long life product series; Higher permissible ripple current; Load life: 5000–10000 h @ +105 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/860240372001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "6/8/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "libraries@we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "860240372001"; VariantName = "[No Variations]"
+Added Component: Designator=esp32(MODULE_ESP32-DEVKITC-32D)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=EXtra(61900511121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900511121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=J?(61900411121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900411121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=Joystick1(61900511121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900511121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=Joystick2(61900511121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900511121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=OLED(61900411121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900411121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=POT1(61900311121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=POT2(61900311121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=POT3(61900311121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=POT4(61900311121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=Power(CUI_PJ-035C)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PJ-035C/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PJ-035C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PJ-035C/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SERVO_1(61900311121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=SERVO_2(61900311121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=SERVO_3(61900311121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=SERVO_4(61900311121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE_ESP32-DEVKITC-32D)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2_PS1 Pin=esp32-J3-15
+Added Pin To Net: NetName=2_PS1 Pin=J?-4
+Added Net: Name=2_PS1
+Added Pin To Net: NetName=3V3_ARM Pin=OLED-3
+Added Pin To Net: NetName=3V3_ARM Pin=U?-J2-1
+Added Net: Name=3V3_ARM
+Added Pin To Net: NetName=3V3 Pin=esp32-J2-1
+Added Pin To Net: NetName=3V3 Pin=Joystick1-4
+Added Pin To Net: NetName=3V3 Pin=Joystick2-4
+Added Pin To Net: NetName=3V3 Pin=POT1-3
+Added Pin To Net: NetName=3V3 Pin=POT2-3
+Added Pin To Net: NetName=3V3 Pin=POT3-3
+Added Pin To Net: NetName=3V3 Pin=POT4-3
+Added Net: Name=3V3
+Added Pin To Net: NetName=5_Extra1 Pin=EXtra-3
+Added Pin To Net: NetName=5_Extra1 Pin=U?-J3-10
+Added Net: Name=5_Extra1
+Added Pin To Net: NetName=5_POT3 Pin=esp32-J3-10
+Added Pin To Net: NetName=5_POT3 Pin=POT3-2
+Added Net: Name=5_POT3
+Added Pin To Net: NetName=5V_ARM Pin=EXtra-4
+Added Pin To Net: NetName=5V_ARM Pin=SERVO_1-2
+Added Pin To Net: NetName=5V_ARM Pin=SERVO_2-2
+Added Pin To Net: NetName=5V_ARM Pin=SERVO_3-2
+Added Pin To Net: NetName=5V_ARM Pin=SERVO_4-2
+Added Pin To Net: NetName=5V_ARM Pin=U?-J2-19
+Added Net: Name=5V_ARM
+Added Pin To Net: NetName=15_PS2 Pin=esp32-J3-16
+Added Pin To Net: NetName=15_PS2 Pin=J?-1
+Added Net: Name=15_PS2
+Added Pin To Net: NetName=16_Extra3 Pin=EXtra-1
+Added Pin To Net: NetName=16_Extra3 Pin=U?-J3-12
+Added Net: Name=16_Extra3
+Added Pin To Net: NetName=17_Extra2 Pin=EXtra-2
+Added Pin To Net: NetName=17_Extra2 Pin=U?-J3-11
+Added Net: Name=17_Extra2
+Added Pin To Net: NetName=17_POT4 Pin=esp32-J3-11
+Added Pin To Net: NetName=17_POT4 Pin=POT4-2
+Added Net: Name=17_POT4
+Added Pin To Net: NetName=18_POT2 Pin=esp32-J3-9
+Added Pin To Net: NetName=18_POT2 Pin=POT2-2
+Added Net: Name=18_POT2
+Added Pin To Net: NetName=19_POT1 Pin=esp32-J3-8
+Added Pin To Net: NetName=19_POT1 Pin=POT1-2
+Added Net: Name=19_POT1
+Added Pin To Net: NetName=25_VRX2 Pin=esp32-J2-9
+Added Pin To Net: NetName=25_VRX2 Pin=Joystick2-3
+Added Net: Name=25_VRX2
+Added Pin To Net: NetName=26_VRY2 Pin=esp32-J2-10
+Added Pin To Net: NetName=26_VRY2 Pin=Joystick2-2
+Added Net: Name=26_VRY2
+Added Pin To Net: NetName=27_SW2 Pin=esp32-J2-11
+Added Pin To Net: NetName=27_SW2 Pin=Joystick2-1
+Added Net: Name=27_SW2
+Added Pin To Net: NetName=32_SW1 Pin=esp32-J2-7
+Added Pin To Net: NetName=32_SW1 Pin=Joystick1-1
+Added Net: Name=32_SW1
+Added Pin To Net: NetName=32_VRY1 Pin=esp32-J2-6
+Added Pin To Net: NetName=32_VRY1 Pin=Joystick1-2
+Added Net: Name=32_VRY1
+Added Pin To Net: NetName=34_VRX1 Pin=esp32-J2-5
+Added Pin To Net: NetName=34_VRX1 Pin=Joystick1-3
+Added Net: Name=34_VRX1
+Added Pin To Net: NetName=GND_ARM Pin=C-2
+Added Pin To Net: NetName=GND_ARM Pin=EXtra-5
+Added Pin To Net: NetName=GND_ARM Pin=OLED-4
+Added Pin To Net: NetName=GND_ARM Pin=Power-2
+Added Pin To Net: NetName=GND_ARM Pin=Power-3
+Added Pin To Net: NetName=GND_ARM Pin=SERVO_1-3
+Added Pin To Net: NetName=GND_ARM Pin=SERVO_2-3
+Added Pin To Net: NetName=GND_ARM Pin=SERVO_3-3
+Added Pin To Net: NetName=GND_ARM Pin=SERVO_4-3
+Added Pin To Net: NetName=GND_ARM Pin=U?-J2-14
+Added Pin To Net: NetName=GND_ARM Pin=U?-J3-1
+Added Pin To Net: NetName=GND_ARM Pin=U?-J3-7
+Added Net: Name=GND_ARM
+Added Pin To Net: NetName=GND Pin=3v3-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=esp32-J3-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=Joystick1-5
+Added Pin To Net: NetName=GND Pin=Joystick2-5
+Added Pin To Net: NetName=GND Pin=POT1-1
+Added Pin To Net: NetName=GND Pin=POT2-1
+Added Pin To Net: NetName=GND Pin=POT3-1
+Added Pin To Net: NetName=GND Pin=POT4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net3v3_2 Pin=3v3-2
+Added Pin To Net: NetName=Net3v3_2 Pin=C2-1
+Added Net: Name=Net3v3_2
+Added Pin To Net: NetName=Net*_2 Pin=C-1
+Added Pin To Net: NetName=Net*_2 Pin=Power-1
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Oled_SCL Pin=OLED-2
+Added Pin To Net: NetName=Oled_SCL Pin=U?-J3-3
+Added Net: Name=Oled_SCL
+Added Pin To Net: NetName=Oled_SDA Pin=OLED-1
+Added Pin To Net: NetName=Oled_SDA Pin=U?-J3-6
+Added Net: Name=Oled_SDA
+Added Pin To Net: NetName=Servo1_25 Pin=SERVO_1-1
+Added Pin To Net: NetName=Servo1_25 Pin=U?-J2-9
+Added Net: Name=Servo1_25
+Added Pin To Net: NetName=Servo2_26 Pin=SERVO_2-1
+Added Pin To Net: NetName=Servo2_26 Pin=U?-J2-10
+Added Net: Name=Servo2_26
+Added Pin To Net: NetName=Servo3_27 Pin=SERVO_3-1
+Added Pin To Net: NetName=Servo3_27 Pin=U?-J2-11
+Added Net: Name=Servo3_27
+Added Pin To Net: NetName=Servo4_14 Pin=SERVO_4-1
+Added Pin To Net: NetName=Servo4_14 Pin=U?-J2-12
+Added Net: Name=Servo4_14
+Added Class: Name=Schematic
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

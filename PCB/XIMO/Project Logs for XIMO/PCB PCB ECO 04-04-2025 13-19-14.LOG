@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=5V_ARM Pin=s1-1
+Removed Pin From Net: NetName=NetC_1 Pin=s1-2
+Removed Member From Class: ClassName=Schematic Member=s1
+Added Component: Designator=Buck(MP1584)
+Added Component: Designator=C?(WCAP-AT1H 5x11x2x0.5)
+Add component (AddParameter): Name = "Application"; Value = "Medium and high voltage type range from 160V-450V used as primary side input filter in power supply; Low voltage type used as energy storage or low frequency filtering in circuit, applied to general switching power supply, AC-DC converter, adapter, charger, TV, VCR, DC motor circuit filter, digital audio, digital cameras, digital video cameras, satellite receiver etc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "33 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Characteristics"; Value = "Aluminum Electrolytic Capacitor; Recommended soldering: Wave; Operating temperature:–40 °C to +105 °C for UR < 400 V; –25 °C to +105 °C for UR = 400 V; Long life product series; Higher permissible ripple current; Load life: 5000–10000 h @ +105 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/860240372001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "6/8/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "libraries@we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "860240372001"; VariantName = "[No Variations]"
+Added Component: Designator=s?(SW_1101M2S3CQE2)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1101M2S3CQE2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.65 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/symbols-footprints/1101M2S3CQE2/C%26K%20Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_ARM Pin=Buck-3
+Added Pin To Net: NetName=GND_ARM Pin=Buck-4
+Added Pin To Net: NetName=GND_ARM Pin=Buck-5
+Added Pin To Net: NetName=GND_ARM Pin=Buck-6
+Added Pin To Net: NetName=5V_ARM Pin=Buck-7
+Added Pin To Net: NetName=5V_ARM Pin=Buck-8
+Added Pin To Net: NetName=5V_ARM Pin=C?-1
+Added Pin To Net: NetName=GND_ARM Pin=C?-2
+Added Pin To Net: NetName=NetC_1 Pin=s?-2
+Added Pin To Net: NetName=NetBuck_1 Pin=Buck-1
+Added Pin To Net: NetName=NetBuck_1 Pin=Buck-2
+Added Pin To Net: NetName=NetBuck_1 Pin=s?-3
+Added Net: Name=NetBuck_1
+Added Member To Class: ClassName=Schematic Member=Component Buck MP1584 Buck Convertor
+Added Member To Class: ClassName=Schematic Member=Component C? 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component s? 1101M2S3CQE2

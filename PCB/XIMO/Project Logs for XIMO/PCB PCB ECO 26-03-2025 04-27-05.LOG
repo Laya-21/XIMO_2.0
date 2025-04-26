@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=32_SW1 Pin=Joystick1-1
+Removed Pin From Net: NetName=34_VRX1 Pin=Joystick1-3
+Added Pin To Net: NetName=34_VRX1 Pin=Joystick1-1
+Added Pin To Net: NetName=32_SW1 Pin=Joystick1-3
+Change Net Name : Old Net Name=32_VRY1 New Net Name=35_VRY1

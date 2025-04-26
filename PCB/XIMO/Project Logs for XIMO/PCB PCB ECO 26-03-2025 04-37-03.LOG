@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=19_POT1 Pin=POT1-2
+Removed Pin From Net: NetName=3V3 Pin=POT1-3
+Removed Pin From Net: NetName=18_POT2 Pin=POT2-2
+Removed Pin From Net: NetName=3V3 Pin=POT2-3
+Removed Pin From Net: NetName=5_POT3 Pin=POT3-2
+Removed Pin From Net: NetName=3V3 Pin=POT3-3
+Removed Pin From Net: NetName=17_POT4 Pin=POT4-2
+Removed Pin From Net: NetName=3V3 Pin=POT4-3
+Added Pin To Net: NetName=3V3 Pin=POT1-2
+Added Pin To Net: NetName=19_POT1 Pin=POT1-3
+Added Pin To Net: NetName=3V3 Pin=POT2-2
+Added Pin To Net: NetName=18_POT2 Pin=POT2-3
+Added Pin To Net: NetName=3V3 Pin=POT3-2
+Added Pin To Net: NetName=5_POT3 Pin=POT3-3
+Added Pin To Net: NetName=3V3 Pin=POT4-2
+Added Pin To Net: NetName=17_POT4 Pin=POT4-3
